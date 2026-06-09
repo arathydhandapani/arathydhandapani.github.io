@@ -8,7 +8,7 @@ window.portfolioData = {
     location: "United States",
     linkedin: "https://www.linkedin.com/in/arathy-dhandapani-86b6356a",
     resume: "assets/resume.pdf",
-    photo: "assets/HeadshotAD.jpg",
+    photo: "assets/headshot-ad.jpg",
     about: [
       "BI & Data Analytics professional with 14 years of experience building visualization and reporting solutions across SAP BusinessObjects, Power BI, Tableau, and Looker, with hands-on experience architecting BI modernization and migration projects.",
       "My experience includes data engineering and semantic modeling through ETL workflows, lakehouse architectures, and data warehouse solutions using Microsoft Fabric, Databricks, Snowflake, and SQL, along with Python-based EDA and supervised and unsupervised ML models.",
