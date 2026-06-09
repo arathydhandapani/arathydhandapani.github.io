@@ -87,11 +87,6 @@ window.portfolioData = {
       issuer: "Anna University"
     },
     {
-      title: "Google Advanced Analytics Professional Certificate",
-      issuer: "Google",
-      status: "In Progress"
-    },
-    {
       title: "Microsoft Certified: Power BI Data Analyst Associate",
       issuer: "Microsoft"
     },
@@ -104,23 +99,12 @@ window.portfolioData = {
       issuer: "Google Skills Badge"
     },
     {
-      title: "Databricks Certified Data Engineer Associate",
-      issuer: "Databricks",
-      status: "In Progress"
-    },
-    {
-      title: "Microsoft SQL Server Professional Certificate",
-      issuer: "Microsoft",
-      status: "In Progress"
-    },
-    {
       title: "Microsoft Certified: Fabric Analytics Engineer Associate",
       issuer: "Microsoft"
     },
     {
       title: "SnowPro Core Certification",
-      issuer: "Snowflake",
-      status: "Expired"
+      issuer: "Snowflake"
     },
     {
       title: "PGP in Machine Learning & Artificial Intelligence",
