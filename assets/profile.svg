@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder</title>
+  <desc id="desc">A polished placeholder portrait for Arathy Dhandapani.</desc>
+  <rect width="800" height="1000" fill="#e7f0f4"/>
+  <circle cx="400" cy="300" r="148" fill="#0d6f78"/>
+  <path d="M175 880c24-188 132-306 225-306s201 118 225 306" fill="#18202f"/>
+  <path d="M278 305c26-92 78-138 154-138 94 0 148 76 150 158-72-45-159-58-304-20Z" fill="#263247"/>
+  <circle cx="346" cy="326" r="14" fill="#fff"/>
+  <circle cx="456" cy="326" r="14" fill="#fff"/>
+  <path d="M342 418c38 36 82 36 120 0" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round"/>
+  <text x="400" y="955" fill="#5c6678" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">Replace with your photo</text>
+</svg>
